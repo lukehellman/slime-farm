@@ -1,0 +1,19 @@
+{
+  "name": "slimefarmv0.1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Luke Hellman",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "core-js": "^3.33.0",
+    "regenerator-runtime": "^0.14.0"
+  }
+}
